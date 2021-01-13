@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+img {
+  margin: auto;
+}
+nav > a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+figcaption {
+  text-align: center;
+  font-size: smaller;
+}
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
+
